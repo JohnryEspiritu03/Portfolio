@@ -1,29 +1,27 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
+      "role": "BS Computer Science Student",
+      "organisation": "Bicol University",
+      "startDate": "2022",
       "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
+      "experiences": ["Consistent President's Lister", "Student-leader on various academic organizations"],
+      "imageSrc": "history/ACCeSS.png"
     },
     {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
+      "role": "Web Developer",
+      "organisation": "Google Developer Student Clubs Bicol University",
+      "startDate": "Sept 2022",
+      "endDate": "May 2023",
+      "experiences": ["Collaborated with other student developers", "Expanded my social network"],
+      "imageSrc": "history/GDSC.png"
     },
     {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
+      "role": "Public Relations Committee",
+      "organisation": "DOST Bicol SINGCO",
+      "startDate": "July 2024",
+      "endDate": "Present",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
       ],
-      "imageSrc": "history/netflix.png"
+      "imageSrc": "history/singco.jpg"
     }
   ]
