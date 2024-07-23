@@ -1,25 +1,25 @@
 [
     {
-      "title": "Project A",
+      "title": "Encode-iary",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "A C program that allows users to create journal entries without having to worry about its contents' safety.",
+      "skills": ["C"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/JohnryEspiritu03/enciphered_diary"
     },
     {
-      "title": "Project B",
+      "title": "Pitakaibigan",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "description": "A website for a social advocacy that thrives for financial literacy awareness for the young adults living in the Philippines.",
+      "skills": ["HTML", "CSS"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/JohnryEspiritu03/pitakaibigan"
     },
     {
-      "title": "Project C",
+      "title": "KCO Inventory System",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "An inventory system for a Kangkong Chips business. This is a school project for Object-Oriented Programming.",
+      "skills": ["Java"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     }
